@@ -13,8 +13,8 @@ import (
 
 func main() {
 	// 设置目标服务器 IP 地址和端口
-	serverIP := "150.158.142.12"
-	serverPort := "8888"
+	serverIP := ""
+	serverPort := ""
 
 	// 配置 TLS
 	config := &tls.Config{
